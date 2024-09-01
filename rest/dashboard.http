@@ -1,0 +1,4 @@
+GET https://localhost/
+Content-Type: application/json
+Cookie: XDEBUG_SESSION=start
+
